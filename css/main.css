@@ -1,0 +1,114 @@
+#ody{
+    margin: 3% 31%;
+    width:508px;
+    height:168px;
+    display:inline-block;
+}
+ #logo{
+       height:232px;
+    }
+.nav-item{
+    margin-left:24%;
+    font-size:20px;
+}
+.fa-envelope{
+    font-size:43px;
+}
+.s{
+    margin-left:15px;
+   
+    font-size:24px;
+}
+.s1{
+ margin-left:15px;
+   
+    font-size:20px;
+}
+.nl{
+    font-size:45px;
+    text-align:center;
+    margin-top:5px;
+    color:#ff6666;
+    font-weight:bold;
+}
+.one{
+    padding-left:42px;
+    float:left;
+}
+.ic{
+    font-weight:bold;
+    font-size:41px;
+    color:darkslategray;
+}
+
+hr.style-seven {
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: dimgray;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: dimgrey;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+.about{
+   font-family: 'Cinzel', serif;
+    font-size:50px;
+    font-weight:600;
+    color:#00b3b3;
+    text-align:center;
+}
+.about2{
+    margin-top:10px;
+   font-family: 'Cinzel', serif;
+    font-size:40px;
+    font-weight:600;
+    color:#00b3b3;
+    text-align:center;
+}
+#ab{
+    margin-top:10px;
+    
+}
+.ab2{ font-family: 'Cinzel', serif;
+     font-size:30px;
+    border-right:1px solid #e6e6e6;
+    font-family: 'Philosopher', sans-serif;
+    text-align:justify;
+    padding-left:2px;
+    padding-right:39px;
+    margin-left:10px;}
+
+.ab2::first-letter{
+        color:red;
+    font-size:60px;
+    color:darkslategray;
+    font-weight:600;
+    }
+.ab3{ font-family: 'Cinzel', serif;
+     font-size:20px;
+    border-right:1px solid #e6e6e6;
+    font-family: 'Philosopher', sans-serif;
+    text-align:justify;
+    padding-left:2px;
+    padding-right:39px;
+    margin-left:10px;}
+
+.ab3::first-letter{
+        color:red;
+    font-size:50px;
+    color:darkslategray;
+    font-weight:600;
+    }
+th{
+    font-weight:bold;
+    
+}
